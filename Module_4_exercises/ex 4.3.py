@@ -23,20 +23,19 @@ else:
     user_input_int = int(user_input)
     smallest_number = user_input_int
     largest_number = user_input_int
+    user_input = input("Enter a number: (press enter to exit) ")
 
-user_input = input("Enter a number: (press enter to exit) ")
+    while user_input != "":
+        user_input_int = int(user_input)
+        if user_input_int > largest_number:
+            largest_number = user_input_int
+        elif user_input_int < smallest_number:
+            smallest_number = user_input_int
 
-while user_input != "":
-    user_input_int = int(user_input)
-    if user_input_int > largest_number:
-        largest_number = user_input_int
-    elif user_input_int < smallest_number:
-        smallest_number = user_input_int
+        user_input = input("Enter a number: (press enter to exit)")
 
-    user_input = input("Enter a number: (press enter to exit)")
-
-print ("smallest_number" ,  smallest_number )
-print ("largest_number" ,  largest_number )
+    print ("smallest_number" ,  smallest_number )
+    print ("largest_number" ,  largest_number )
 
 
 
