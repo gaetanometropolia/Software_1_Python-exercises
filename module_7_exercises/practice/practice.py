@@ -24,3 +24,4 @@ amount3 = int(input("Enter another fruit amount: "))
 fruit_store[fruit3] = amount3
 
 print (fruit_store)
+print("end")
