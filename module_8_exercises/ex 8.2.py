@@ -13,7 +13,7 @@ connection = mariadb.connect(
 print("Connected to MariaDB")
 
 def get_airport_by_area():
-    sql = "select type, COUNT(*) as amount from airport where iso_country = ? group by type order by type asc"
+    sql = "select type, COUNT(*) as amount from airport where iso_country = ? group by type order by type asc "
     cursor = connection.cursor(dictionary=True)
     user_input = input("Enter area code: ")
     cursor.execute(sql, (user_input,))
@@ -21,7 +21,7 @@ def get_airport_by_area():
 
     if result :
         for n in result:
-            print (n)
+            print(n)
     else:
         print("not found")
 
