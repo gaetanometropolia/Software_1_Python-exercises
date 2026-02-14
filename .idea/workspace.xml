@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ff75f4f-f179-4aa6-8bd1-e24e1c5f39fb" name="Changes" comment="success">
-      <change afterPath="$PROJECT_DIR$/module_7_exercises/practice/practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_7_exercises/practice/practice2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_7_exercises/practice/practice3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_7_exercises/ex 7.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_7_exercises/assignements/ex 7.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_7_exercises/ex 7.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_7_exercises/assignements/ex 7.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_7_exercises/ex 7.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_7_exercises/assignements/ex 7.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_8_exercises/ex. 8.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_8_lesson/new.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +43,8 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Module_4_exercises/ex. 4.1.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Module_6_exercises/ex 6.6.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/module_8_exercises/ex. 8.1.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/module_8_lesson/new.py" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
@@ -57,6 +60,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Chapter5-Extra-Exercise-Answers.executor": "Run",
     "Python.PRACTICE 1.executor": "Run",
@@ -80,6 +84,8 @@
     "Python.ex 7.3.executor": "Run",
     "Python.ex. 4.1.executor": "Run",
     "Python.ex. 4.5.executor": "Run",
+    "Python.ex. 8.1.executor": "Run",
+    "Python.new.executor": "Run",
     "Python.pract.executor": "Run",
     "Python.practice 2.executor": "Run",
     "Python.practice.executor": "Run",
@@ -90,21 +96,63 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/LENOVO/PycharmProjects/PythonProject/Software_1_Python-exercises",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\PycharmProjects\PythonProject\Software_1_Python-exercises\module_8_lesson" />
+      <recent name="C:\Users\LENOVO\PycharmProjects\PythonProject\Software_1_Python-exercises" />
+      <recent name="C:\Users\LENOVO\PycharmProjects\PythonProject\Software_1_Python-exercises\module_8_exercises" />
+      <recent name="C:\Users\LENOVO\PycharmProjects\PythonProject\Software_1_Python-exercises\module_7_exercises\assignements" />
+      <recent name="C:\Users\LENOVO\PycharmProjects\PythonProject\Software_1_Python-exercises\module_7_exercises\practice" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ex. 8.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Software_1_Python-exercises" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_8_exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module_8_exercises/ex. 8.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ex. 8.1" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -137,7 +185,10 @@
       <workItem from="1769766106062" duration="5138000" />
       <workItem from="1770048947939" duration="8710000" />
       <workItem from="1770101502932" duration="2632000" />
-      <workItem from="1770104994032" duration="4090000" />
+      <workItem from="1770104994032" duration="4350000" />
+      <workItem from="1770188835682" duration="9757000" />
+      <workItem from="1770463682311" duration="538000" />
+      <workItem from="1771068133376" duration="4222000" />
     </task>
     <task id="LOCAL-00001" summary="success">
       <option name="closed" value="true" />
@@ -299,7 +350,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770065153621</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="success">
+      <option name="closed" value="true" />
+      <created>1770109133036</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1770109133036</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -319,6 +378,7 @@
     <SUITE FILE_PATH="coverage/Software_1_Python_exercises$ex_6_3.coverage" NAME="ex 6.3 Coverage Results" MODIFIED="1769679869517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module_6_exercises" />
     <SUITE FILE_PATH="coverage/Software_1_Python_exercises$ex_6_6.coverage" NAME="ex 6.6 Coverage Results" MODIFIED="1769724689561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module_6_exercises" />
     <SUITE FILE_PATH="coverage/Software_1_Python_exercises$ex_7_1.coverage" NAME="ex 7.1 Coverage Results" MODIFIED="1770062175214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module_7_exercises" />
+    <SUITE FILE_PATH="coverage/Software_1_Python_exercises$ex__8_1.coverage" NAME="ex. 8.1 Coverage Results" MODIFIED="1771072363270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module_8_exercises" />
     <SUITE FILE_PATH="coverage/Software_1_Python_exercises$ex_5_1.coverage" NAME="ex 5.1 Coverage Results" MODIFIED="1769455744981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module_5_exercises" />
     <SUITE FILE_PATH="coverage/Software_1_Python_exercises$ex_4_3.coverage" NAME="ex 4.3 Coverage Results" MODIFIED="1769162273303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module_4_exercises" />
     <SUITE FILE_PATH="coverage/Software_1_Python_exercises$ex__4_1.coverage" NAME="ex. 4.1 Coverage Results" MODIFIED="1769025059809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module_4_exercises" />
@@ -327,6 +387,7 @@
     <SUITE FILE_PATH="coverage/Software_1_Python_exercises$ex_6_4.coverage" NAME="ex 6.4 Coverage Results" MODIFIED="1769717653408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module_6_exercises" />
     <SUITE FILE_PATH="coverage/Software_1_Python_exercises$ex_6_1.coverage" NAME="ex 6.1 Coverage Results" MODIFIED="1769631556922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module_6_exercises" />
     <SUITE FILE_PATH="coverage/Software_1_Python_exercises$break_practice.coverage" NAME="break practice Coverage Results" MODIFIED="1769075398718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Software_1_Python_exercises$new.coverage" NAME="new Coverage Results" MODIFIED="1770199784807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Software_1_Python_exercises$ex_4_2.coverage" NAME="ex 4.2 Coverage Results" MODIFIED="1769025487288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module_4_exercises" />
     <SUITE FILE_PATH="coverage/Software_1_Python_exercises$Chapter5_Extra_Exercise_Answers.coverage" NAME="Chapter5-Extra-Exercise-Answers Coverage Results" MODIFIED="1769622564292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Software_1_Python_exercises$PRACTICE_1.coverage" NAME="PRACTICE 1 Coverage Results" MODIFIED="1769770148978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module_6_exercises" />
