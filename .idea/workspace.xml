@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ff75f4f-f179-4aa6-8bd1-e24e1c5f39fb" name="Changes" comment="success">
-      <change afterPath="$PROJECT_DIR$/module_8_exercises/ex 8.3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_8_lesson/ex 8.3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_8_exercises/ex 8.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_8_exercises/ex 8.2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +123,7 @@
       <recent name="C:\Users\LENOVO\PycharmProjects\PythonProject\Software_1_Python-exercises\module_7_exercises\practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex 8.3 (1)">
+  <component name="RunManager" selected="Python.ex 8.2">
     <configuration name="ex 8.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software_1_Python-exercises" />
       <option name="ENV_FILES" value="" />
@@ -224,9 +222,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex 8.2" />
         <item itemvalue="Python.ex 8.3 (1)" />
         <item itemvalue="Python.ex 8.3" />
-        <item itemvalue="Python.ex 8.2" />
         <item itemvalue="Python.ex. 8.1" />
       </list>
     </recent_temporary>
@@ -267,7 +265,7 @@
       <workItem from="1770188835682" duration="9757000" />
       <workItem from="1770463682311" duration="538000" />
       <workItem from="1771068133376" duration="9305000" />
-      <workItem from="1771082403730" duration="4412000" />
+      <workItem from="1771082403730" duration="5357000" />
     </task>
     <task id="LOCAL-00001" summary="success">
       <option name="closed" value="true" />
@@ -469,7 +467,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771077398755</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="success">
+      <option name="closed" value="true" />
+      <created>1771087598612</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1771087598612</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -489,8 +495,8 @@
     <SUITE FILE_PATH="coverage/Software_1_Python_exercises$ex_6_3.coverage" NAME="ex 6.3 Coverage Results" MODIFIED="1769679869517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module_6_exercises" />
     <SUITE FILE_PATH="coverage/Software_1_Python_exercises$ex_6_6.coverage" NAME="ex 6.6 Coverage Results" MODIFIED="1769724689561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module_6_exercises" />
     <SUITE FILE_PATH="coverage/Software_1_Python_exercises$ex_7_1.coverage" NAME="ex 7.1 Coverage Results" MODIFIED="1770062175214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module_7_exercises" />
-    <SUITE FILE_PATH="coverage/Software_1_Python_exercises$ex_8_3__1_.coverage" NAME="ex 8.3 (1) Coverage Results" MODIFIED="1771087071260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module_8_exercises" />
-    <SUITE FILE_PATH="coverage/Software_1_Python_exercises$ex_8_2.coverage" NAME="ex 8.2 Coverage Results" MODIFIED="1771077993847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module_8_exercises" />
+    <SUITE FILE_PATH="coverage/Software_1_Python_exercises$ex_8_3__1_.coverage" NAME="ex 8.3 (1) Coverage Results" MODIFIED="1771092019636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module_8_exercises" />
+    <SUITE FILE_PATH="coverage/Software_1_Python_exercises$ex_8_2.coverage" NAME="ex 8.2 Coverage Results" MODIFIED="1771092051098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module_8_exercises" />
     <SUITE FILE_PATH="coverage/Software_1_Python_exercises$ex__8_1.coverage" NAME="ex. 8.1 Coverage Results" MODIFIED="1771072363270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module_8_exercises" />
     <SUITE FILE_PATH="coverage/Software_1_Python_exercises$ex_5_1.coverage" NAME="ex 5.1 Coverage Results" MODIFIED="1769455744981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module_5_exercises" />
     <SUITE FILE_PATH="coverage/Software_1_Python_exercises$ex_4_3.coverage" NAME="ex 4.3 Coverage Results" MODIFIED="1769162273303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module_4_exercises" />
