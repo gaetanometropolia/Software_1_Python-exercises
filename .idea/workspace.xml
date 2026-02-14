@@ -5,12 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ff75f4f-f179-4aa6-8bd1-e24e1c5f39fb" name="Changes" comment="success">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_8_exercises/ex. 8.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_8_lesson/new.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_1_exercises/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_1_exercises/.idea/Module-1-Python-exercises.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_1_exercises/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_1_exercises/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_1_exercises/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_1_exercises/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_1_exercises/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_exercises/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_exercises/.idea/Software1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_exercises/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_exercises/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_exercises/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_exercises/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_exercises/exercise  2.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_exercises/exercise  2.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_exercises/exercise 2.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_exercises/exercise 2.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_exercises/exercise 2.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_exercises/exercise 2.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_3_exercises/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_3_exercises/.idea/Module-3-Python-exercises-.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_3_exercises/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_3_exercises/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_3_exercises/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_3_exercises/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_3_exercises/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_3_exercises/This repository contains module's 3 exercises" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_3_exercises/exercise 3.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_3_exercises/exercise 3.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_3_exercises/exercise 3.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_3_exercises/exercise 3.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_8_exercises/ex 8.2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -114,6 +140,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\PycharmProjects\PythonProject\Software_1_Python-exercises" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\LENOVO\PycharmProjects\PythonProject\Software_1_Python-exercises\module_8_lesson" />
       <recent name="C:\Users\LENOVO\PycharmProjects\PythonProject\Software_1_Python-exercises" />
@@ -188,7 +217,7 @@
       <workItem from="1770104994032" duration="4350000" />
       <workItem from="1770188835682" duration="9757000" />
       <workItem from="1770463682311" duration="538000" />
-      <workItem from="1771068133376" duration="4222000" />
+      <workItem from="1771068133376" duration="5351000" />
     </task>
     <task id="LOCAL-00001" summary="success">
       <option name="closed" value="true" />
@@ -358,7 +387,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770109133036</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="success">
+      <option name="closed" value="true" />
+      <created>1771072402179</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1771072402179</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
